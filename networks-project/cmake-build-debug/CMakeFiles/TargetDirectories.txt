@@ -1,0 +1,4 @@
+/Users/timurnugaev/CLionProjects/untitled6/networks-project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/timurnugaev/CLionProjects/untitled6/networks-project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/timurnugaev/CLionProjects/untitled6/networks-project/cmake-build-debug/CMakeFiles/Server.dir
+/Users/timurnugaev/CLionProjects/untitled6/networks-project/cmake-build-debug/CMakeFiles/Client.dir

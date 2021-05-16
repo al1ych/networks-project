@@ -1,0 +1,4 @@
+/cygdrive/c/Users/Xiaomi/CLionProjects/network-final/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/Xiaomi/CLionProjects/network-final/cmake-build-release/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Xiaomi/CLionProjects/network-final/cmake-build-release/CMakeFiles/Server.dir
+/cygdrive/c/Users/Xiaomi/CLionProjects/network-final/cmake-build-release/CMakeFiles/Client.dir
